@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: Res Services Smoke Test
+Implementation-Version: 1.0
+Implementation-Vendor-Id: org.springframework.boot
+Build-Jdk: 1.7.0_45
+Built-By: e502dp
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/res-services
+ -smoke-test/
+

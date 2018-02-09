@@ -1,0 +1,6 @@
+com\smoketest\MyServletContextListener.class
+com\smoketest\MyFilter.class
+com\smoketest\WelcomeController.class
+com\smoketest\SpringBootWebApplication.class
+com\smoketest\OtaServlet.class
+com\smoketest\MyServlet.class
